@@ -1,2 +1,4 @@
-# Projeto de banco de dados de site escolar feito por Yury marcelo, Vitor soares, Vinícius soares
+# Projeto de banco de dados
+
+## Feito por Yury marcelo, Vitor soares, Vinicius soares
 
